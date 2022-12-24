@@ -1,0 +1,11 @@
+{
+  "name": "@migan/prettier-config",
+  "version": "1.0.0",
+  "description": "migan's prettier config",
+  "main": ".prettierrc.json",
+  "author": "Migan178 <migan9857@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
