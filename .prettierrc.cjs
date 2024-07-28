@@ -9,5 +9,4 @@ module.exports = {
   arrowParens: 'avoid',
   bracketSpacing: true,
   tabWidth: 2,
-  plugins: ['@trivago/prettier-plugin-sort-imports'],
 }
