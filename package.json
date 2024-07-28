@@ -1,12 +1,14 @@
 {
   "name": "@migan/prettier-config",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "migan's prettier config",
   "main": ".prettierrc.cjs",
   "author": "Migan178 <me@migan.co.kr>",
   "license": "MIT",
   "devDependencies": {
-    "@trivago/prettier-plugin-sort-imports": "^4.3.0",
     "prettier": "^3.3.3"
+  },
+  "dependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^4.3.0"
   }
 }
