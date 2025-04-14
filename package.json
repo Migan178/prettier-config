@@ -1,6 +1,6 @@
 {
   "name": "@migan/prettier-config",
-  "version": "1.2.0",
+  "version": "2.0.0",
   "description": "migan's prettier config",
   "main": ".prettierrc.cjs",
   "author": "Migan178 <me@migan.co.kr>",

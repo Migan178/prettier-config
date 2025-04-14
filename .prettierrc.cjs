@@ -3,10 +3,11 @@
  * @type {import("prettier").Config}
  */
 module.exports = {
-  semi: false,
-  singleQuote: true,
-  endOfLine: 'lf',
-  arrowParens: 'avoid',
-  bracketSpacing: true,
-  tabWidth: 2,
-}
+	semi: true,
+	singleQuote: false,
+	endOfLine: "lf",
+	arrowParens: "avoid",
+	bracketSpacing: true,
+	tabWidth: 4,
+	useTabs: true,
+};
